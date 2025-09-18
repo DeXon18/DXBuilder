@@ -100,14 +100,14 @@ When finished, your new ISO will be waiting in the script’s folder:
 ---
 
 ## 🚀 Features Implemented (as of v1.0 — 2025-07-09)
-✅ Telemetry fully disabled (since day one).
-✅ Ad & sponsored content suppression (aggressively blocked via registry).
-✅ Automatic architecture & language detection.
-✅ Interactive app selection menu (`-InteractiveApps` flag).
-✅ SHA256 checksum generation for your ISO.
-✅ Corrected `autounattend.xml` (no more silent OOBE failures!).
-✅ Full error handling & automatic cleanup.
-✅ Changelog & versioning built-in.
+- ✅ Telemetry fully disabled (since day one).
+- ✅ Ad & sponsored content suppression (aggressively blocked via registry).
+- ✅ Automatic architecture & language detection.
+- ✅ Interactive app selection menu (`-InteractiveApps` flag).
+- ✅ SHA256 checksum generation for your ISO.
+- ✅ Corrected `autounattend.xml` (no more silent OOBE failures!).
+- ✅ Full error handling & automatic cleanup.
+- ✅ Changelog & versioning built-in.
 
 ---
 
