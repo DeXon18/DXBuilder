@@ -112,12 +112,12 @@ When finished, your new ISO will be waiting in the script’s folder:
 ---
 
 ## 🔮 Features to be Implemented
-🧩 Modular components — choose your “de-bloat level”.
-🎨 GUI version (WPF or WinUI — yes, it’s coming).
-🌐 Direct WIM/ESD processing (no ISO mounting needed).
-🔄 Post-install script injection (run your own `setup.cmd`).
-📦 Optional driver injection during build.
-🧪 DXBuilder Core release (target: August 2025).
+- 🧩 Modular components — choose your “de-bloat level”.
+- 🎨 GUI version (WPF or WinUI — yes, it’s coming).
+- 🌐 Direct WIM/ESD processing (no ISO mounting needed).
+- 🔄 Post-install script injection (run your own `setup.cmd`).
+- 📦 Optional driver injection during build.
+- 🧪 DXBuilder Core release (target: August 2025).
 
 ---
 
